@@ -1,9 +1,66 @@
 <resources>
     <!-- Default screen margins, per the Android Design guidelines. -->
-    <dimen name="activity_horizontal_margin">16dp</dimen>
-    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">0dp</dimen>
+    <dimen name="activity_vertical_margin">0dp</dimen>
 
     <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
          https://developer.android.com/design/patterns/navigation-drawer.html -->
     <dimen name="navigation_drawer_width">240dp</dimen>
+    <dimen name="ebpay_dialog_width">300.0dip</dimen>
+    <dimen name="ebpay_dialog_img_width">260.0dip</dimen>
+    <dimen name="ebpay_dialog_img_height">150.0dip</dimen>
+    <dimen name="ebpay_order_padding_top">27.0dip</dimen>
+    <dimen name="ebpay_order_padding_bottom">23.0dip</dimen>
+    <dimen name="ebpay_order_text_pitch">25.0dip</dimen>
+    <dimen name="indicator_right_padding">10.0dip</dimen>
+    <dimen name="indicator_corner_radius">12.0dip</dimen>
+    <dimen name="indicator_internal_padding">4.0dip</dimen>
+    <dimen name="header_footer_left_right_padding">24.0dip</dimen>
+    <dimen name="header_footer_top_bottom_padding">12.0dip</dimen>
+    <dimen name="slidingmenu_offset">60.0dip</dimen>
+    <dimen name="list_padding">10.0dip</dimen>
+    <dimen name="shadow_width">15.0dip</dimen>
+    <dimen name="ebpay_line_margin_20">20.0dip</dimen>
+    <dimen name="ebpay_line_margin_10">10.0dip</dimen>
+    <dimen name="ebpay_line_margin_15">15.0dip</dimen>
+    <dimen name="ebpay_title_heigth">50.0dip</dimen>
+    <dimen name="ebpay_dimen_20dp">20.0dip</dimen>
+    <dimen name="ebpay_dimen_30dp">30.0dip</dimen>
+    <dimen name="ebpay_bt_height">45.0dip</dimen>
+    <dimen name="ebpay_white_line_height">46.0dip</dimen>
+    <dimen name="ebpay_white_line_height_2_more">48.0dip</dimen>
+    <dimen name="ebpay_text_size_25">25.0sp</dimen>
+    <dimen name="ebpay_text_size_20">20.0sp</dimen>
+    <dimen name="ebpay_text_size_18">18.0sp</dimen>
+    <dimen name="ebpay_text_size_15">15.0sp</dimen>
+    <dimen name="ebpay_text_size_12">12.0sp</dimen>
+    <dimen name="ebpay_key_height">50.0dip</dimen>
+    <dimen name="ebpay_fast_max_width">68.0dip</dimen>
+    <dimen name="ebpay_logo_width">100.0dip</dimen>
+    <dimen name="ebpay_logo_height">28.0dip</dimen>
+    <dimen name="bd_wallet_withdraw_tip_width">80.0dip</dimen>
+    <dimen name="default_circle_indicator_radius">3.0dip</dimen>
+    <dimen name="default_circle_indicator_stroke_width">1.0dip</dimen>
+    <dimen name="default_line_indicator_line_width">12.0dip</dimen>
+    <dimen name="default_line_indicator_gap_width">4.0dip</dimen>
+    <dimen name="default_line_indicator_stroke_width">1.0dip</dimen>
+    <dimen name="default_title_indicator_clip_padding">4.0dip</dimen>
+    <dimen name="default_title_indicator_footer_line_height">2.0dip</dimen>
+    <dimen name="default_title_indicator_footer_indicator_height">4.0dip</dimen>
+    <dimen name="default_title_indicator_footer_indicator_underline_padding">20.0dip</dimen>
+    <dimen name="default_title_indicator_footer_padding">7.0dip</dimen>
+    <dimen name="default_title_indicator_text_size">15.0dip</dimen>
+    <dimen name="default_title_indicator_title_padding">5.0dip</dimen>
+    <dimen name="default_title_indicator_top_padding">7.0dip</dimen>
+    <dimen name="itemHeight">70.0dip</dimen>
+    <dimen name="topHeight">58.0dip</dimen>
+    <dimen name="viewHieght">50.0dip</dimen>
+    <dimen name="editHieght">46.0dip</dimen>
+    <dimen name="h48">48.0sp</dimen>
+    <dimen name="h0">30.0sp</dimen>
+    <dimen name="h1">23.0sp</dimen>
+    <dimen name="h2">19.0sp</dimen>
+    <dimen name="h3">16.0sp</dimen>
+    <dimen name="h4">14.0sp</dimen>
+    <dimen name="h5">13.0sp</dimen>
 </resources>
